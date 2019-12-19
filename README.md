@@ -1,4 +1,4 @@
-> ###### @author AdmosDigital
+> ###### author @Admosdigital
 > ###### 19/12/2019
 
 ## Products App!
@@ -11,10 +11,10 @@ Add products by name, price and year and remove them, everything alerted when an
 
 #### Screenshots
 
-![Screenshot1](/Volumes/HDD/Programacion/webapps/productosjavascript/screenshots/screen1.png)
+![ScreenshotOne](/screenshots/screen1.png?raw=true "ScreenOne")
 
-![Screenshot2](/Volumes/HDD/Programacion/webapps/productosjavascript/screenshots/screen2.png)
+![ScreenshotTwo](/screenshots/screen2.png?raw=true "ScreenTwo")
 
-![Screenshot3](/Volumes/HDD/Programacion/webapps/productosjavascript/screenshots/screen3.png)
+![ScreenshotThree](/screenshots/screen3.png?raw=true "ScreenThree")
 
-![Screenshot4](/Volumes/HDD/Programacion/webapps/productosjavascript/screenshots/screen4.png)
+![ScreenshotFour](/screenshots/screen4.png?raw=true "ScreenFour")
